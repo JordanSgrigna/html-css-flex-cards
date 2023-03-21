@@ -100,3 +100,8 @@ h3, p{
 .postcard-shadow{
     box-shadow: -2px -4px 8px #888888
 }
+
+
+.card-icons{
+    min-width: 255px;
+}
