@@ -1,3 +1,39 @@
-.header-font{
-    font-family: 'Public Sans', sans-serif;
+*{
+    box-sizing: content-box;
+    padding: 0;
+    margin: 0;
 }
+
+
+.page-mw{
+    margin: auto;
+    width: 60%;
+}
+
+
+.text-align-center{
+    text-align: center;
+}
+
+
+.pt-15{
+    padding-top: 15px;
+}
+
+
+.pt-30{
+    padding-top: 30px;
+}
+
+
+header{
+    font-family: 'Public Sans', sans-serif;
+    color: rgba(228, 48, 112, 255)
+}
+
+
+.text-font{
+    font-weight: 600;
+    font-size: 14px;
+}
+
