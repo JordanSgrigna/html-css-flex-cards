@@ -54,10 +54,20 @@
     font-size: 14px;
 }
 
+.container-flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
 
 .card-flex{
     display: flex;
     flex-wrap: wrap;
+    gap: 8px;
+}
+
+.card-width{
+    width:30%;
 }
 
 
@@ -78,9 +88,6 @@ img {
     float: left;
 }
 
-.card-right-padding{
-    padding-right: 50px;
-}
 
 h3, p{
     padding-top: 5px;
