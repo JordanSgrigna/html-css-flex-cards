@@ -7,7 +7,7 @@
 
 .page-mw{
     margin: auto;
-    width: 60%;
+    width: 65%;
 }
 
 
@@ -71,7 +71,6 @@
 }
 
 .text-padding{
-    padding-left: 8px;
     padding-top: 5px;
 }
 
@@ -84,7 +83,10 @@ img {
 }
 
 h3, p{
+    padding-top: 5px;
     padding-bottom: 5px;
+    padding-left: 5px;
+    font-size: 14px;
 }
 
 
